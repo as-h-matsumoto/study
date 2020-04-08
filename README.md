@@ -91,3 +91,11 @@ create database clala;
 quit;
 mysql -u root -p clala < clala.sql
 </pre>
+
+# login
+
+<pre>
+https://xxx.com/login
+email: admin@coordiy.com
+pass: aaaabbbb
+</pre>
