@@ -1,4 +1,6 @@
 # nginx
+
+<pre>
 server {
 	ssl on;
 
@@ -42,16 +44,19 @@ server {
 	gzip_disable "MSIE [1-6]\.(?!.*SV1)";
 
 }
+</pre>
 
 
 # php install
+
+<pre>
 yum install -y nginx
 yum install -y php php-mbstring php-pear php-fpm php-mcrypt php-mysql php-php-fpm php-php-mysqlnd php-php-mcrypt php-php-mbstring php-php-gd php-gd mariadb-server
 
 yum -y install libxml2 libxml2-devel libjpeg libjpeg-devel libpng libpng-devel freetype freetype-devel zlib zlib-devel glibc glibc-devel glib2 glib2-devel curl curl-devel php-mcrypt libmcrypt libmcrypt-devel openssl-devel gd mcrypt mhash libicu-devel libpng12
 yum install -y mariadb mariadb-server
 systemctl start mariadb
-
+</pre>
 
 
 # app install
