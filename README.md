@@ -1,4 +1,4 @@
-# ngin
+# nginx
 server {
 	ssl on;
 
