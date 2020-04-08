@@ -1,0 +1,18 @@
+
+<div class="card">
+  <div class="card-title">
+    Visual Studio Code
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-title">
+    [全角文字][改行][全角文字]　を検索する
+  </div>
+  <div class="card-body">
+    <pre>[^\x01-\x7E]\n[^\x01-\x7E]</pre>
+  </div>
+</div>
+
+
+
