@@ -1,3 +1,13 @@
+
+# summury
+
+* laravel5.8 で 中小企業診断士取得のためのアプリ
+
+* laravel5.8 で 予約システムアプリ（テストなので元々動いていたが今は動かなくなっている。）
+
+
+
+
 # nginx
 
 <pre>
@@ -98,4 +108,22 @@ mysql -u root -p clala < clala.sql
 https://xxx.com/login
 email: admin@coordiy.com
 pass: aaaabbbb
+</pre>
+
+# page
+
+<pre>
+
+> 予約機能説明ページ
+https://study.coordiy.com/yoyaku
+
+> 管理者ページ
+https://study.coordiy.com/owner
+
+> 学習ページ
+https://study.coordiy.com/
+
+> 予約ページ
+https://study.coordiy.com/SenMonTen/%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81/contents/6/desc
+
 </pre>
