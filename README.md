@@ -94,6 +94,8 @@ composer require laravelcollective/html
 
 rm -rf app bootstrap public config resources database routes composer.json package.json
 
+git init
+
 git remote add origin https://github.com/as-h-matsumoto/study.git
 
 git pull origin master
